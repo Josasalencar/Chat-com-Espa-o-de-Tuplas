@@ -1,0 +1,34 @@
+<component name="libraryTable">
+  <library name="asm-3.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../river/lib/asm-3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../river/lib/asm-commons-3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../river/lib/browser.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../river/lib/destroy.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../river/lib/extra.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../river/lib/fiddler.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../river/lib/group.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../river/lib/jini-core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../river/lib/jini-ext.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../river/lib/jsk-debug-policy.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../river/lib/jsk-lib.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../river/lib/jsk-platform.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../river/lib/mahalo.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../river/lib/mercury.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../river/lib/norm.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../river/lib/outrigger-snaplogstore.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../river/lib/outrigger.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../river/lib/phoenix-group.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../river/lib/phoenix-init.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../river/lib/phoenix.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../river/lib/reggie.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../river/lib/serviceui.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../river/lib/sharedvm.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../river/lib/start.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../river/lib/sun-util.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../river/lib/tools.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
